@@ -232,3 +232,19 @@ if __name__ == "__main__":
     
 ~~~
 
+### 실행하기 
+
+
+1. 우분투에서 ububtu_server.py를 실행한다.
+2. 윈도우에서 클라이언트 소스를 vs2008에서 컴파일하여 실행한다.
+3. 서버에서 클라이언트의 접속을 처리한다.
+
+![](http://postfiles4.naver.net/20120317_275/adsloader_1331988102442g7dyt_PNG/2.PNG?type=w2)
+
+4. 클라이언트에서  result = TestFunc('메롱')  을 파이썬 명령어로 요청한다.
+5. 클라이언트에서  ps  | grep 'python' && ls -al 을 리눅스 쉘 명령어로 요청한다.
+
+![](http://postfiles13.naver.net/20120317_76/adsloader_133198810209475JOu_PNG/1.PNG?type=w2)
+
+
+
